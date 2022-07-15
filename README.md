@@ -24,7 +24,7 @@ Com um currículo desenhado em parceria com pessoas referência em tecnologia e 
 
  - [ ] **03**: Fundamentos do Desenvolvimento Web
  - [ ] **03**: Introdução - Unix & Shell
- - [ ] **03**: Unix & Bash - Parte 1
+ - [x] **03**: Unix & Bash - Parte 1
  - [ ] **04**: Unix & Bash - Parte 2
 
 ### Bloco 02: Git, GitHub e Internet
